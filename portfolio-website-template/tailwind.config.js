@@ -1,6 +1,7 @@
 // tailwind.config.js
 
 module.exports = {
+    darkMode: "class",
     content: [
         "./index.html", // Include the root HTML file
         "./src/**/*.{js,ts,jsx,tsx}", // Include all JS/TS/JSX/TSX files in the 'src' folder
