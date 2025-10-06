@@ -1,0 +1,34 @@
+# Portfolio Template
+
+Ez a sablon egy modern, letisztult és reszponzív portfólió weboldal, amit bárki használhat személyes bemutatkozó oldalként, designerként vagy fejlesztőként.  
+Az oldal már deploy-olva is elérhető: [Live Demo](https://portfolio-template-one-roan.vercel.app/)
+
+---
+
+## 🚀 Főbb jellemzők
+
+- 🎨 Egyszerű és letisztult design  
+- 📱 Reszponzív elrendezés mobilon és asztali eszközökre  
+- ⚡ Gyors betöltés – minimalista struktúra  
+- 🧱 Kész sablon, könnyen testreszabható  
+- 🔗 Könnyen kibővíthető részek: bemutatkozás, projektek, kapcsolat, technológiai ikonok
+
+---
+
+## 🧰 Technológiák
+
+- HTML5  
+- Tailwind CSS 
+- JavaScript (opcionálisan kisebb interakciókhoz)  
+
+---
+
+## 🛠 Telepítés és helyi futtatás
+
+1. Klónozd a repót:
+   ```bash
+   git clone https://github.com/Nandorbotka/portfolio-template.git
+   cd portfolio-template
+
+    npm install
+    npm run dev 
